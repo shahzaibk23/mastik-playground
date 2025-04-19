@@ -1,0 +1,59 @@
+Monitoring RSA_private_decrypt at 0x7f8f4cbedbe0
+Monitoring address 0x7f8f4cbedbe0
+Monitoring address 0x7f8f4cbedc20
+Monitoring address 0x7f8f4cbedc60
+Monitoring address 0x7f8f4cbedca0
+Cache hit/miss threshold: 173 cycles
+Starting Flush+Reload trace...
+Collected 51 samples
+Sample    0:  227 (Miss)   18 (Hit)   47 (Hit)  195 (Miss) | Active
+Sample    1:  234 (Miss)  238 (Miss)  195 (Miss)  197 (Miss) | Idle
+Sample    2:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample    3:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample    4:  248 (Miss)  230 (Miss)  191 (Miss)  197 (Miss) | Idle
+Sample    5:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample    6:  227 (Miss)  236 (Miss)  195 (Miss)  195 (Miss) | Idle
+Sample    7:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample    8:  246 (Miss)  233 (Miss)  193 (Miss)  193 (Miss) | Idle
+Sample    9:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   10:  250 (Miss)  237 (Miss)  193 (Miss)  193 (Miss) | Idle
+Sample   11:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   12:  231 (Miss)  236 (Miss)  197 (Miss)  197 (Miss) | Idle
+Sample   13:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   14:  230 (Miss)  233 (Miss)  195 (Miss)  195 (Miss) | Idle
+Sample   15:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   16:  232 (Miss)  252 (Miss)  195 (Miss)  195 (Miss) | Idle
+Sample   17:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   18:  227 (Miss)  197 (Miss)  191 (Miss)  198 (Miss) | Idle
+Sample   19:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   20:  231 (Miss)  197 (Miss)  193 (Miss)  193 (Miss) | Idle
+Sample   21:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   22:  231 (Miss)  197 (Miss)  195 (Miss)  193 (Miss) | Idle
+Sample   23:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   24:  231 (Miss)  195 (Miss)  197 (Miss)  193 (Miss) | Idle
+Sample   25:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   26:  228 (Miss)  195 (Miss)  197 (Miss)  199 (Miss) | Idle
+Sample   27:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   28:  228 (Miss)  195 (Miss)  193 (Miss)  193 (Miss) | Idle
+Sample   29:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   30:  231 (Miss)  197 (Miss)  193 (Miss)  193 (Miss) | Idle
+Sample   31:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   32:  232 (Miss)  195 (Miss)  195 (Miss)  195 (Miss) | Idle
+Sample   33:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   34:  228 (Miss)  195 (Miss)  193 (Miss)  197 (Miss) | Idle
+Sample   35:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   36:  227 (Miss)  199 (Miss)  193 (Miss)  202 (Miss) | Idle
+Sample   37:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   38:  193 (Miss)  195 (Miss)  197 (Miss)  197 (Miss) | Idle
+Sample   39:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   40:  232 (Miss)  193 (Miss)  195 (Miss)  197 (Miss) | Idle
+Sample   41:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   42:  189 (Miss)  197 (Miss)  191 (Miss)  205 (Miss) | Idle
+Sample   43:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   44:  189 (Miss)  197 (Miss)  197 (Miss)  197 (Miss) | Idle
+Sample   45:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   46:  201 (Miss)  197 (Miss)  193 (Miss)  195 (Miss) | Idle
+Sample   47:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   48:  190 (Miss)  193 (Miss)  197 (Miss)  237 (Miss) | Idle
+Sample   49:    0 (Hit)    0 (Hit)    0 (Hit)    0 (Hit) | Active
+Sample   50:  193 (Miss)  195 (Miss)  197 (Miss)  193 (Miss) | Idle
